@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Диана Худатова](https://up.htmlacademy.ru/htmlcss/37/user/1902213).
-* Наставник: `Неизвестно`.
+* Наставник: `Ирина Малиновская`. (https://htmlacademy.ru/profile/irina-malinovskaya)
 
 ---
 
